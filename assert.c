@@ -6,6 +6,7 @@
 void
 test_add(void)
 {
+  printf("welcome :) \n");
   printf ("Test addition using assert:      ");
   assert (addition(13,14)==27);
   assert (addition(-13,14)==1);
