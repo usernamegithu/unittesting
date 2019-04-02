@@ -20,6 +20,6 @@ int mod(int a,int b)
  }
  else
  {
-  return 0;
+  (return 0;)
  }
  }
